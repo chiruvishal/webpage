@@ -1,0 +1,31 @@
+h1{
+    color: #66BFBF   ;
+    font-style:italic
+
+}
+body{
+    background-color:bisque;
+}
+image{
+    size:50%;
+}
+hr{
+    width: 10%;
+    border-style:none;
+   border-width: 5px;
+   border-top-style:dotted;  
+   border-color: grey;
+}
+p{
+    text-align:left;
+    font-size: 18px;
+}
+h2{
+color: #F67280;
+}
+h3{
+    text-align: centre;
+}
+a{
+    text-align: center;
+}
